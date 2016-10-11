@@ -1,0 +1,4 @@
+[submodule "framework_component"]
+	path = framework_component
+	url = https://github.com/CXmartins/framework_component
+	branch = reuse_test
